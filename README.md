@@ -1,142 +1,148 @@
-<!-- 🔥 Animated Typing Header -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Logic+Box+%7C+Python+Mini+AI+System;Multi-Functional+CLI+Application;Built+with+Logic+%26+Creativity;Gabani+Ved+Upeshbhai+🚀">
-</h1>
-
-<!-- 🌌 Banner -->
+<!-- Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=200&section=header&text=Logic%20Box%20Engine&fontSize=40&fontColor=00F7FF&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Risk+Alert+Classifier;AI%2FML+Fraud+Detection+System;Built+with+Scikit-Learn+%26+Python" />
 </p>
 
 ---
 
-# 🧠 Logic Box – Multi-Functional Python Engine
+<h1 align="center">🚨 Risk Alert Classifier</h1>
 
-## 📌 Overview
-
-**Logic Box** is a command-line based Python application that combines multiple mini-programs into a single interactive system.
-
-It simulates a **multi-module AI logic engine**, where each feature represents a different real-world logic scenario.
+<p align="center">
+  <b>AI-powered Fraud Detection System for Digital Banking</b>
+</p>
 
 ---
 
-## 🤖 AI / ML Concepts Applied
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen"/>
+  <img src="https://img.shields.io/badge/MODEL-RandomForest-blue"/>
+  <img src="https://img.shields.io/badge/TYPE-Binary_Classification-orange"/>
+  <img src="https://img.shields.io/badge/DOMAIN-Fraud_Detection-purple"/>
+</p>
 
-* Rule-Based Decision Systems
-* Conditional Logic Execution
-* Input Processing & Validation
-* Modular Programming
-* Interactive CLI Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue"/>
+  <img src="https://img.shields.io/badge/Pandas-Data_Processing-yellow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical-blue"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-red"/>
+</p>
+
+---
+
+## 🎬 Menu Demo
+
+<p align="center">
+  <img src="https://your-gif-link-here.gif" width="700"/>
+</p>
+
+> 📌 This demo shows the working menu interface including:
+>
+> * User input system
+> * Risk prediction flow
+> * Output classification
+
+---
+
+## 🎥 Video Walkthrough
+
+<p align="center">
+  <a href="https://drive.google.com/YOUR-LINK">
+    <img src="https://img.shields.io/badge/▶️ WATCH%20FULL%20WALKTHROUGH-Google%20Drive-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+> 🎓 Complete explanation covering:
+>
+> * Data preprocessing
+> * Model training
+> * Handling imbalance
+> * Final predictions
+
+---
+
+## 🎯 About the Project
+
+This project is a **Machine Learning-based Risk Detection System** designed for:
+
+✔ Fraud Detection
+✔ Risk Classification
+✔ Banking Security
+
+It predicts whether a transaction or user is **safe or risky** using trained ML models.
 
 ---
 
 ## ⚙️ Features
 
-### ⭐ 1. Pattern Generator
-
-Generates triangle star patterns
-➡️ Demonstrates loop-based pattern logic
-
-### 🔢 2. Range Analyzer
-
-Analyzes numbers as Even/Odd and calculates total sum
-➡️ Data processing & iteration
-
-### 🥪 3. Sandwich Maker
-
-Custom sandwich generator based on user input
-➡️ Simple decision simulation
-
-### 🧮 4. Calculator
-
-Performs:
-
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Power
-* Floor Division
-
-➡️ Mathematical logic engine
-
-### 🐾 5. Pet Simulator
-
-Select a pet and get response
-➡️ Multi-condition branching
-
-### ✊ 6. Rock-Paper-Scissors Game
-
-Play against computer using randomness
-➡️ Basic game logic + random module
+* 🔍 Data Validation System
+* 🤖 Machine Learning Predictions
+* 📊 Clean CLI Menu Interface
+* 🚀 Fast & Lightweight
+* 🧠 Smart Decision Logic
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Model Used
 
-* 🐍 Python 3.x
-* 🔁 Loops & Conditions
-* 🎲 Random Module
+* Random Forest Classifier (Tuned)
+* Binary Classification (0 = Safe, 1 = Risk)
 
 ---
 
-## ▶️ Google Drive Link
+## 📂 Project Structure
 
-https://drive.google.com/file/d/1trs_cw9h6diAWmQ-UMGMXIyG4glc4LHL/view?usp=sharing
+```bash
+📁 Risk-Alert-Classifier
+ ┣ 📜 Program_4.1.py
+ ┣ 📜 Program_4.2.py
+ ┣ 📜 Program_4.3.py
+ ┣ 📜 Program_4.4.py
+ ┣ 📜 Program_4.5.py
+ ┗ 📜 README.md
+```
+
+---
+
+## ▶️ How to Run
+
+```bash
+python Program_4.1.py
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedGabani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedGabnai&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VedGabani&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=VedGabani&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🧠 Learning Outcome
+## 🚀 Future Improvements
 
-* Strong understanding of Python fundamentals
-* Real-world logic building
-* CLI application design
-* Problem-solving skills
-
----
-
-## 🔮 Future Enhancements
-
-* GUI Version (Tkinter / PyQt)
-* Convert to Web App (Flask / Django)
-* Add AI-based decision making
-* Save user data (File/Database)
+* Web App Deployment (Streamlit)
+* Real-time Fraud Detection API
+* Dashboard Visualization
 
 ---
 
-## 🙋‍♂️ Author
+## 🤝 Contributing
 
-**Gabani Ved Upeshbhai**
-🚀 Aspiring AI/ML Engineer
+Pull requests are welcome!
 
 ---
 
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
----
-
-<!-- 🌊 Footer -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=120&section=footer"/>
-</p>
