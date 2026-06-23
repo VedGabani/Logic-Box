@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Mini+Projects+Suite;CLI+Based+Utility+Program;Fun+Projects+for+Beginners+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Logic+Box;CLI+Mini+Projects+Suite;Interactive+Terminal+Program+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 <h1 align="center">🧠 Python Logic Box</h1>
 
 <p align="center">
-  <b>A Multi-Feature CLI Program with Fun + Utility Tools</b>
+  <b>Multi-Feature CLI Program with Interactive Menu</b>
 </p>
 
 ---
@@ -17,9 +17,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-Completed-brightgreen"/>
   <img src="https://img.shields.io/badge/TYPE-CLI_Application-blue"/>
-  <img src="https://img.shields.io/badge/LEVEL-Beginner--Intermediate-orange"/>
   <img src="https://img.shields.io/badge/LANGUAGE-Python-yellow"/>
 </p>
+
+---
+
+## ⚡ Live Terminal Preview
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=Launching+Program...;Displaying+Menu...;1.+Pattern+Generator;2.+Range+Analyzer;3.+Sandwich+Maker;4.+Calculator;5.+Pet+Simulator;6.+Rock+Paper+Scissors;User+Selects+Option...;Processing...;Done+%E2%9C%85" />
+</p>
+
+> 💻 Simulated live terminal output showing how the program runs interactively.
 
 ---
 
@@ -29,84 +38,26 @@
   <img src="https://your-gif-link-here.gif" width="700"/>
 </p>
 
-> 📌 Demo shows:
->
-> * Interactive menu system
-> * User input handling
-> * Multiple mini-program executions
+> 📌 Replace above GIF with your real program demo
 
 ---
 
 ## 🎯 About the Project
 
-This project is a **menu-driven Python CLI application** that combines multiple small programs into one system.
-
-It helps practice:
-
-* Loops & Conditions
-* Functions
-* User Input Handling
-* Logic Building
+A **menu-driven Python CLI application** combining multiple mini tools into one interactive system.
 
 ---
 
 ## ⚙️ Features
 
-✨ 7 Mini Programs in One:
+✨ Includes:
 
-1. ⭐ Pattern Generator
-2. 🔢 Number Range Analyzer
-3. 🥪 Sandwich Maker
-4. 🧮 Simple Calculator
-5. 🐶 Pet Simulator
-6. ✊ Rock Paper Scissors Game
-7. 🚪 Exit System
-
----
-
-## 🧩 Program Overview
-
-### ⭐ Pattern Generator
-
-* Prints star patterns based on user input
-
-### 🔢 Range Analyzer
-
-* Checks Even/Odd numbers
-* Calculates total sum
-
-### 🥪 Sandwich Maker
-
-* Custom sandwich builder with fun output
-
-### 🧮 Calculator
-
-* Performs:
-
-  * Addition
-  * Subtraction
-  * Multiplication
-  * Division
-  * Power
-  * Floor Division
-
-### 🐶 Pet Simulator
-
-* Select a pet and get a fun response
-
-### ✊ Rock Paper Scissors
-
-* Play against computer using random logic
-
----
-
-## 📂 Project Structure
-
-```bash
-📁 Python-Logic-Box
- ┣ 📜 main.py
- ┗ 📜 README.md
-```
+* ⭐ Pattern Generator
+* 🔢 Range Analyzer
+* 🥪 Sandwich Maker
+* 🧮 Calculator
+* 🐶 Pet Simulator
+* ✊ Rock Paper Scissors
 
 ---
 
@@ -121,8 +72,8 @@ python main.py
 ## 🧠 Concepts Used
 
 * Functions
-* Loops (`for`, `while`)
-* Conditional Statements (`if-else`)
+* Loops
+* Conditions
 * User Input
 * Random Module
 
@@ -131,7 +82,7 @@ python main.py
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedGabani&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -139,26 +90,11 @@ python main.py
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VedGabani&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
-
----
-
-## 🚀 Future Improvements
-
-* Add GUI (Tkinter / Streamlit)
-* Save user scores
-* Add more mini games
-* Improve UI/UX
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome!
 
 ---
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+Give a ⭐ if you like this project!
