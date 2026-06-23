@@ -93,7 +93,7 @@ python main.py
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedGabani&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ python main.py
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=VedGabani&theme=tokyonight" />
 </p>
 
 ---
