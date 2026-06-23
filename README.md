@@ -54,14 +54,6 @@
 
 ---
 
-## 🎬 Menu Demo
-
-<p align="center">
-  <img src="https://your-gif-link-here.gif" width="700"/>
-</p>
-
-> 📌 Replace above GIF with your real program demo
-
 ---
 
 ## 🎯 About the Project
@@ -145,7 +137,7 @@ Ends the program
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VedGabani&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -153,7 +145,7 @@ Ends the program
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=VedGabani&theme=tokyonight"/>
 </p>
 
 ---
