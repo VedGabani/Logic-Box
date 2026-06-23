@@ -82,11 +82,9 @@ Play against computer using randomness
 
 ---
 
-## ▶️ How to Run
+## ▶️ Google Drive Link
 
-```bash
-python main.py
-```
+https://drive.google.com/file/d/1trs_cw9h6diAWmQ-UMGMXIyG4glc4LHL/view?usp=sharing
 
 ---
 
