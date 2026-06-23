@@ -1,32 +1,24 @@
-<!-- Animated Header -->
+<!-- Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Risk+Alert+Classifier;AI%2FML+Fraud+Detection+System;Built+with+Scikit-Learn+%26+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Mini+Projects+Suite;CLI+Based+Utility+Program;Fun+Projects+for+Beginners+%F0%9F%9A%80" />
 </p>
 
 ---
 
-<h1 align="center">🚨 Risk Alert Classifier</h1>
+<h1 align="center">🧠 Python Logic Box</h1>
 
 <p align="center">
-  <b>AI-powered Fraud Detection System for Digital Banking</b>
+  <b>A Multi-Feature CLI Program with Fun + Utility Tools</b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen"/>
-  <img src="https://img.shields.io/badge/MODEL-RandomForest-blue"/>
-  <img src="https://img.shields.io/badge/TYPE-Binary_Classification-orange"/>
-  <img src="https://img.shields.io/badge/DOMAIN-Fraud_Detection-purple"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue"/>
-  <img src="https://img.shields.io/badge/Pandas-Data_Processing-yellow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical-blue"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-red"/>
+  <img src="https://img.shields.io/badge/STATUS-Completed-brightgreen"/>
+  <img src="https://img.shields.io/badge/TYPE-CLI_Application-blue"/>
+  <img src="https://img.shields.io/badge/LEVEL-Beginner--Intermediate-orange"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-Python-yellow"/>
 </p>
 
 ---
@@ -37,69 +29,82 @@
   <img src="https://your-gif-link-here.gif" width="700"/>
 </p>
 
-> 📌 This demo shows the working menu interface including:
+> 📌 Demo shows:
 >
-> * User input system
-> * Risk prediction flow
-> * Output classification
-
----
-
-## 🎥 Video Walkthrough
-
-<p align="center">
-  <a href="https://drive.google.com/YOUR-LINK">
-    <img src="https://img.shields.io/badge/▶️ WATCH%20FULL%20WALKTHROUGH-Google%20Drive-blue?style=for-the-badge"/>
-  </a>
-</p>
-
-> 🎓 Complete explanation covering:
->
-> * Data preprocessing
-> * Model training
-> * Handling imbalance
-> * Final predictions
+> * Interactive menu system
+> * User input handling
+> * Multiple mini-program executions
 
 ---
 
 ## 🎯 About the Project
 
-This project is a **Machine Learning-based Risk Detection System** designed for:
+This project is a **menu-driven Python CLI application** that combines multiple small programs into one system.
 
-✔ Fraud Detection
-✔ Risk Classification
-✔ Banking Security
+It helps practice:
 
-It predicts whether a transaction or user is **safe or risky** using trained ML models.
+* Loops & Conditions
+* Functions
+* User Input Handling
+* Logic Building
 
 ---
 
 ## ⚙️ Features
 
-* 🔍 Data Validation System
-* 🤖 Machine Learning Predictions
-* 📊 Clean CLI Menu Interface
-* 🚀 Fast & Lightweight
-* 🧠 Smart Decision Logic
+✨ 7 Mini Programs in One:
+
+1. ⭐ Pattern Generator
+2. 🔢 Number Range Analyzer
+3. 🥪 Sandwich Maker
+4. 🧮 Simple Calculator
+5. 🐶 Pet Simulator
+6. ✊ Rock Paper Scissors Game
+7. 🚪 Exit System
 
 ---
 
-## 🧠 Model Used
+## 🧩 Program Overview
 
-* Random Forest Classifier (Tuned)
-* Binary Classification (0 = Safe, 1 = Risk)
+### ⭐ Pattern Generator
+
+* Prints star patterns based on user input
+
+### 🔢 Range Analyzer
+
+* Checks Even/Odd numbers
+* Calculates total sum
+
+### 🥪 Sandwich Maker
+
+* Custom sandwich builder with fun output
+
+### 🧮 Calculator
+
+* Performs:
+
+  * Addition
+  * Subtraction
+  * Multiplication
+  * Division
+  * Power
+  * Floor Division
+
+### 🐶 Pet Simulator
+
+* Select a pet and get a fun response
+
+### ✊ Rock Paper Scissors
+
+* Play against computer using random logic
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-📁 Risk-Alert-Classifier
- ┣ 📜 Program_4.1.py
- ┣ 📜 Program_4.2.py
- ┣ 📜 Program_4.3.py
- ┣ 📜 Program_4.4.py
- ┣ 📜 Program_4.5.py
+📁 Python-Logic-Box
+ ┣ 📜 main.py
  ┗ 📜 README.md
 ```
 
@@ -108,15 +113,25 @@ It predicts whether a transaction or user is **safe or risky** using trained ML 
 ## ▶️ How to Run
 
 ```bash
-python Program_4.1.py
+python main.py
 ```
+
+---
+
+## 🧠 Concepts Used
+
+* Functions
+* Loops (`for`, `while`)
+* Conditional Statements (`if-else`)
+* User Input
+* Random Module
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedGabnai&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VedGabani&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -131,9 +146,10 @@ python Program_4.1.py
 
 ## 🚀 Future Improvements
 
-* Web App Deployment (Streamlit)
-* Real-time Fraud Detection API
-* Dashboard Visualization
+* Add GUI (Tkinter / Streamlit)
+* Save user scores
+* Add more mini games
+* Improve UI/UX
 
 ---
 
