@@ -1,5 +1,11 @@
 <!-- Animated Typing Header -->
 
+<!-- 🌌 Banner -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=200&section=header&text=Logic%20Box%20Engine&fontSize=40&fontColor=00F7FF&animation=fadeIn"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Logic+Box;CLI+Mini+Projects+Suite;Interactive+Terminal+Program+%F0%9F%9A%80" />
 </p>
@@ -19,6 +25,22 @@
   <img src="https://img.shields.io/badge/TYPE-CLI_Application-blue"/>
   <img src="https://img.shields.io/badge/LANGUAGE-Python-yellow"/>
 </p>
+
+---
+
+## 🎥 Video Walkthrough
+
+<p align="center">
+  <a href="https://drive.google.com/YOUR-LINK-HERE">
+    <img src="https://img.shields.io/badge/▶️%20WATCH%20FULL%20WALKTHROUGH-Google%20Drive-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+> 📌 Full demo of the project including:
+>
+> * Menu navigation
+> * Feature execution
+> * Program flow
 
 ---
 
@@ -60,120 +82,53 @@ A **menu-driven Python CLI application** combining multiple mini tools into one 
 * ✊ Rock Paper Scissors
 
 ---
-<p align="center">
-  
-  ## ▶️ Explanation
-  
-  ## 📖 Program Explanation
-  
-  The **Python Logic Box** is a menu-driven command-line application that combines multiple small programs into a single interactive system. It is designed to help beginners understand core programming concepts through practical and fun examples.
-  
-  ---
-  
-  ### 🔁 How the Program Works
-  
-  * The program starts by displaying a **menu of options**.
-  * The user selects a number (1–7) to choose a feature.
-  * Based on the input, the corresponding function is executed.
-  * The program runs continuously in a loop until the user selects **Exit (7)**.
-  
-  ---
-  
-  ### 🧩 Core Functionalities
-  
-  #### ⭐ 1. Pattern Generator
-  
-  * Takes user input for number of rows
-  * Prints a triangle pattern using `*`
-  * Demonstrates loop logic
-  
-  ---
-  
-  #### 🔢 2. Range Analyzer
-  
-  * Accepts a start and end range
-  * Identifies each number as **Even or Odd**
-  * Calculates the **total sum**
-  * Demonstrates loops + conditionals
-  
-  ---
-  
-  #### 🥪 3. Sandwich Maker
-  
-  * Lets user choose bread and filling
-  * Outputs a fun custom sandwich
-  * Demonstrates string handling
-  
-  ---
-  
-  #### 🧮 4. Simple Calculator
-  
-  * Takes two numbers as input
-  * Performs:
-  
-    * Addition
-    * Subtraction
-    * Multiplication
-    * Division
-    * Exponentiation
-    * Floor Division
-  * Demonstrates arithmetic operations
-  
-  ---
-  
-  #### 🐶 5. Pet Simulator
-  
-  * User selects a pet (Dog/Cat/Fish)
-  * Displays a custom message
-  * Demonstrates conditional branching
-  
-  ---
-  
-  #### ✊ 6. Rock, Paper, Scissors
-  
-  * User plays against the computer
-  * Computer randomly selects a choice
-  * Winner is decided based on rules
-  * Demonstrates:
-  
-    * Random module
-    * Game logic
-  
-  ---
-  
-  #### 🚪 7. Exit
-  
-  * Stops the program loop
-  * Ends execution safely
-  
-  ---
-  
-  ### 🧠 Concepts Demonstrated
-  
-  * Functions
-  * Loops (`while`, `for`)
-  * Conditional Statements (`if-elif-else`)
-  * User Input Handling
-  * Randomization
-  * Modular Programming
 
-</p>
+## ▶️ Explanation
+
+## 📖 Program Explanation
+
+The **Python Logic Box** is a menu-driven command-line application that combines multiple small programs into a single interactive system. It is designed to help beginners understand core programming concepts through practical and fun examples.
 
 ---
 
-### 🎯 Purpose of the Project
+### 🔁 How the Program Works
 
-This project is ideal for:
-
-* Beginners learning Python
-* Practicing logic building
-* Understanding how real programs are structured
-* Creating interactive CLI applications
+* The program starts by displaying a **menu of options**
+* The user selects a number (1–7)
+* The selected function runs
+* The loop continues until Exit is chosen
 
 ---
 
-💡 Overall, this program acts as a **mini project collection** that strengthens problem-solving skills and prepares you for more advanced development.
+### 🧩 Core Functionalities
 
+#### ⭐ Pattern Generator
+
+Prints star patterns using loops
+
+#### 🔢 Range Analyzer
+
+Checks Even/Odd numbers and calculates total sum
+
+#### 🥪 Sandwich Maker
+
+Creates a fun custom sandwich
+
+#### 🧮 Calculator
+
+Performs all basic math operations
+
+#### 🐶 Pet Simulator
+
+Displays pet-based responses
+
+#### ✊ Rock Paper Scissors
+
+Play against computer using random logic
+
+#### 🚪 Exit
+
+Ends the program
 
 ---
 
@@ -206,3 +161,10 @@ This project is ideal for:
 ## ⭐ Support
 
 Give a ⭐ if you like this project!
+
+<!-- 🌊 Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=120&section=footer"/>
+</p>
+
