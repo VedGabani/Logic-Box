@@ -31,7 +31,7 @@
 ## 🎥 Video Walkthrough
 
 <p align="center">
-  <a href="https://drive.google.com/YOUR-LINK-HERE">
+  <a href="https://drive.google.com/file/d/1trs_cw9h6diAWmQ-UMGMXIyG4glc4LHL/view?usp=drive_link">
     <img src="https://img.shields.io/badge/▶️%20WATCH%20FULL%20WALKTHROUGH-Google%20Drive-blue?style=for-the-badge"/>
   </a>
 </p>
